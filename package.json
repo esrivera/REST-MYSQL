@@ -1,0 +1,19 @@
+{
+    "name": "REST_MYSQL",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "dev": "nodemon src/",
+        "start": "nodemon src/"
+    },
+    "keywords": [],
+    "author": "Santiago Rivera",
+    "license": "ISC",
+    "dependencies": {
+        "body-parser": "^1.19.0",
+        "express": "^4.17.1",
+        "mysql": "^2.18.1",
+        "nodemon": "^2.0.4"
+    }
+}
